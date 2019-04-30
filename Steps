@@ -1,0 +1,13 @@
+#Change the password of wifi and ssd
+#Check the ip4address of your network
+#Upload the code for arduino
+#Now open serial monitor and check if it's connected to ip address
+#Download wampserver application
+#Open the app and restart all services
+#Then open the apache
+#Open https.config
+#replace "require local" by"“Require ip"
+#Restart all services then www
+#paste the loginsys folder
+#then open local host (localhost/loginsys/)
+#click on addcard
